@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,16 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "80%"
+  icon = ""
+  icon_pack = ""
+  name = "Mandarin"
+  description = "Native"
 
 [[feature]]
-  icon = "language"
-  icon_pack = "fas"
-  name = "Linguistics"
-  description = "90%"
+  icon = ""
+  icon_pack = ""
+  name = "Taiwanese(Dialect)"
+  description = "Native"
+  
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "English"
+  description = "Fluent, TOEIC 955"
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "French"
+  description = "Advanced, DALF C1"
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Spanish"
+  description = "Lower-intermediate, DELE A2" 
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Japanese"
+  description = "Elementary" 
   
 # [[feature]]
 #  icon = "chart-bar"
@@ -41,10 +65,10 @@ subtitle = ""
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-[[feature]]
-  icon = "data-science"
-  icon_pack = "custom"
-  name = "Data Science"
-  description = "75%"
+# [[feature]]
+#  icon = "data-science"
+#  icon_pack = "custom"
+#  name = "Data Science"
+#  description = "75%"
 
 +++
