@@ -42,8 +42,8 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 [[feature]]
-  icon = "data-science"
-  icon_pack = "custom"
+  icon = "data-science.png"
+  icon_pack = "skill"
   name = "Data Science"
   description = "75%"
 
