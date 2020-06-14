@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Udacity"
-  organization_url = "https://www.udacity.com/course/ai-for-trading--nd880"
+  organization_url = "https://www.udacity.com"
   title = "Artificial Intelligence for Trading"
-  url = ""
-  certificate_url = "https://www.coursera.org"
+  url = "https://www.udacity.com/course/ai-for-trading--nd880"
+ # certificate_url = "https://www.coursera.org"
   date_start = "2020-02-01"
   date_end = ""
   description = "Quantitative Trading, Portfolio Optimization and Deep Learning (RNN)"

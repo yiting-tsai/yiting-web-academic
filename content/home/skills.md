@@ -26,11 +26,11 @@ subtitle = ""
   name = "Linguistics"
   description = "90%"
   
-# [[feature]]
-#  icon = "chart-bar"
-#  icon_pack = "fas"
-# name = "Data Science"
-#  description = "75%"  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = "75%"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -41,10 +41,10 @@ subtitle = ""
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-[[feature]]
-  icon = "data-science.png"
-  icon_pack = "skill"
-  name = "Data Science"
-  description = "75%"
+# [[feature]]
+#  icon = "data-science.png"
+#  icon_pack = "skill"
+#  name = "Data Science"
+#  description = "75%"
 
 +++
