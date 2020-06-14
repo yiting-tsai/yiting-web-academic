@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "Skills"
+title = "Languages"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,38 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":cn:"
+  icon_pack = "emoji"
   name = "Mandarin"
   description = "Native"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":taiwan:"
+  icon_pack = "emoji"
   name = "Taiwanese(Dialect)"
   description = "Native"
   
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":us:"
+  icon_pack = "emoji"
   name = "English"
   description = "Fluent, TOEIC 955"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":fr:"
+  icon_pack = "emoji"
   name = "French"
   description = "Advanced, DALF C1"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":es:"
+  icon_pack = "emoji"
   name = "Spanish"
   description = "Lower-intermediate, DELE A2" 
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = ":jp:"
+  icon_pack = "emoji"
   name = "Japanese"
   description = "Elementary" 
   
