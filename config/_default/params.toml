@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Yi-Ting Tsai Natural Language Processing Master Candidate in France"
 
 ############################
 ## Site Features
@@ -105,7 +105,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:.cid.e683130dc5c3314d"}
+  {icon = "likedin", icon_pack = "fab", name = "My LinkedIn", link = "https://www.linkedin.com/in/yi-ting-clara-tsai/"},
+  {icon = "github", icon_pack = "fab", name = "My GitHub Repo", link = "https://github.com/yiting-tsai"}
   ]
 
 ############################
