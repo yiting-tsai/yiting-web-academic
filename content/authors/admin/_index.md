@@ -18,7 +18,7 @@ organizations:
   url: https://institut-sciences-digitales.fr/informations-master-tal/info-tal-generales/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yi-Ting Tsai is a candidate at Master NLP at IDMC, University of Lorraine.
+bio: Yi-Ting Tsai is a candidate at Master NLP at IDMC, University of Lorraine, whose interests are Text mining, Speech Processing and Ontology.
 
 interests:
 - Text mining
