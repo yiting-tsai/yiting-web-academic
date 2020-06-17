@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-_This project is a individual course project assigned in the class of Speech Synthesis at IDMC, University of Lorraine._
+_This project is a individual project assigned in the class of Speech Synthesis at IDMC, University of Lorraine._
 
 The [articulatory corpus MNGU0](http://www.mngu0.org) is a public English articulatory data of various forms (EMA, MRI, video, 3D scans of upper/lower jaw, audio etc.), of which the access can be gained from the site after registration. 
 
