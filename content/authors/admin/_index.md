@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yi-Ting Clara TSAI
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Candidate in MSc Natural Language Processing
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: IDMC, University of Lorraine
-  url: "https://institut-sciences-digitales.fr/informations-master-tal/info-tal-generales/"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yi-Ting is a M2 candidate in Natural Language Processing at IDMC of the University of Lorraine. Her research interests include text mining, speech processing and ontology.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Text mining
-- Speech Processing
-- Ontology
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: MSc in Nautral Language Processing
-    institution: IDMC, University of Lorraine, FRANCE
-    year: 2020
-  - course: BA in French and International Business Management
-    institution: Wenzao University Ursuline of Languages
-    year: 2016
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,12 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/yi-ting-clara-tsai/
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/yiting-tsai
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,11 +65,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Yi-Ting Clara Tsai is a candidate of Master in Natural Language Processing(NLP) at Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine. Her previous background of the study was in French Language Studies and International Business Management.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Her interest topics include Text Mining, Speech Processing and Ontology with an emphasis on Business, Politics and eHealth. Currently conducting a research internship in A Corpus-Based Comparative Analysis of Argumentation and RS Theory at [LORIA Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) (UMR 7503 - CNRS, INRIA Grand Est & Université de Lorraine), which is supervised jointly by Mr. Yannick TOUSSAINT (LORIA CNRS, Inria Nancy Grand Est) and Mrs. Mathilde DARGNAT (ATLIF CNRS, Univérsité de Lorraine).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
