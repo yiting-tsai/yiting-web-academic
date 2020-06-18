@@ -26,7 +26,7 @@ date_format = "Jan 2006"
  # certificate_url = "https://www.coursera.org"
   date_start = "2020-02-01"
   date_end = ""
-  description = "Quantitative Trading, Portfolio Building & Optimization and Deep Learning (RNN) in Sentiment Analysis on Financial News"
+  description = "Quantitative Trading, Portfolio Building & Optimization and Sentiment Analysis with Deep Learning (RNN) on Financial News"
 
 # [[item]]
 #  organization = "edX"

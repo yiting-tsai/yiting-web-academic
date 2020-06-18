@@ -105,6 +105,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "envelope", icon_pack = "fas", name = "yiting-clara-tsai@gmail.com", link = "yiting-clara-tsai@gmail.com"},
   {icon = "linkedin", icon_pack = "fab", name = "My LinkedIn", link = "https://www.linkedin.com/in/yi-ting-clara-tsai/"},
   {icon = "github", icon_pack = "fab", name = "My GitHub Repo", link = "https://github.com/yiting-tsai"}
   ]
@@ -260,7 +261,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
