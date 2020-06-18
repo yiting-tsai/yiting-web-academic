@@ -1,0 +1,69 @@
+---
+# Display name
+title: Yi-Ting Clara TSAI
+
+# Username (this should match the folder name)
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Candidate in MSc Natural Language Processing
+
+# Organizations/Affiliations
+organizations:
+- name: IDMC, University of Lorraine
+  url: "https://institut-sciences-digitales.fr/informations-master-tal/info-tal-generales/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: Yi-Ting is a M2 candidate in Natural Language Processing at IDMC of the University of Lorraine. Her research interests include text mining, speech processing and ontology.
+
+interests:
+- Text mining
+- Speech Processing
+- Ontology
+
+education:
+  courses:
+  - course: MSc in Nautral Language Processing
+    institution: IDMC, University of Lorraine, FRANCE
+    year: 2020
+  - course: BA in French and International Business Management
+    institution: Wenzao University Ursuline of Languages
+    year: 2016
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yi-ting-clara-tsai/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yiting-tsai
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+#user_groups:
+#- Researchers
+#- Visitors
+---
+
+Yi-Ting Clara Tsai is a candidate of Master in Natural Language Processing(NLP) at Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine. Her previous background of the study was in French Language Studies and International Business Management.
+
+Her interest topics include Text Mining, Speech Processing and Ontology with an emphasis on Business, Politics and eHealth. Currently conducting a research internship in A Corpus-Based Comparative Analysis of Argumentation and RS Theory at [LORIA Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) (UMR 7503 - CNRS, INRIA Grand Est & Université de Lorraine), which is supervised jointly by Mr. Yannick TOUSSAINT (LORIA CNRS, Inria Nancy Grand Est) and Mrs. Mathilde DARGNAT (ATLIF CNRS, Univérsité de Lorraine).
