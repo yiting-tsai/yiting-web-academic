@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Nautral Language Processing, 
+  - course: MSc in Nautral Language Processing
     institution: IDMC, University of Lorraine, FRANCE
     year: 2018 - 2020
   - course: BA in French and International Business Management
