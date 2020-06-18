@@ -66,7 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering p Publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
