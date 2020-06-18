@@ -45,32 +45,33 @@ The goal of the project to observe and use automatic tools to perform a descript
 
 In this project, 1263 utterances, in average 16 phonemes for each utterance and approximately 20208 phonemes in total, have been analyzed. For each utterance, there are 4 corresponding files: binary file of articulatory data in `.ema` format, readable articulatory data in `.txt` format, phonetic segmentation file in `.lab` format and the audio file in `.wav` format. In order to cal, we need `.txt` and `.lab` files. 
 
-To calculate the articulatory measurements of every phoneme, the phonetic segmentation data `.lab` files, containing phonetic symbols and end time of them, and articulatory data `.txt` files, containing numerical data of each articulatory movement recorded at a frequency of every 5 ms, are needed. In order to extract and perform the calculation, the automatic tool that I chose to work with is **Python**. The built-in functions and libraries help to accomplish the these tasks. Easy peasy lemon squeezy.:lemon:
+To calculate the articulatory measurements of every phoneme, the phonetic segmentation data `.lab` files, containing phonetic symbols and end time of them, and articulatory data `.txt` files, containing numerical data of each articulatory movement recorded at a frequency of every 5 ms, are needed. In order to extract and perform the calculation, the automatic tool that I chose to work with is **Python**. The built-in functions and libraries help to accomplish these tasks. Easy peasy lemon squeezy.:lemon:
 
 ### The brief process steps are described as below:
 
+
 **Extraction**:
 
-1. Find pairs of corresponding phonetic segmentation data `.lab` files and articulatory data `.txt` files by their filename for each utterance in the repository.
+1. For each utterance, find pairs of corresponding phonetic segmentation data `.lab` file and articulatory data `.txt` file by their filename in the repository.
 
 **Data Cleaning & Wrangling**:
 
 2. Create appropriate table of phonemes and their numerical position data of all the utterances.
-  1. Find the corresponding _**index**_ of each phoneme in one utterance. Since there is only the _end time_ information of each phoneme available, we calculate the _median time point_ of every phoneme as _**index**_.
-  2. Pull in the numerical position data via _**index**_ to the table/dataframe, generated with Pandas library in Python.
+    1. Find the corresponding _**index**_ of each phoneme in one utterance. Since there is only the _end time_ information of each phoneme available, we calculate the _median time point_ of every phoneme as _**index**_.
+    2. Pull in the numerical position data via _**index**_ to the table/dataframe, generated with Pandas library in Python.
 3. Group the phonemes together and then calculate the mean, min, max, and standard deviation for each phoneme.
 4. Create another table/dataframe of calcualted articulographic distance and displacement measurements for each phoneme from the previous positional table.
-  * Euclidean distance for mouth opening (UL upper lip and LL lower lip).
-  * Displacement of the tongue tip, back of the tongue and the jaw on both x-axis and y-axis.
+    * Euclidean distance for mouth opening (UL upper lip and LL lower lip).
+    * Displacement of the tongue tip, back of the tongue and the jaw on both x-axis and y-axis.
 
 **Data Visualization**:　
 
 5. Organize the distance table by the groups of phonemes according to their place of articulation and plot with a data visualization library in Python.
-  * A mapping chart of phonetic symbols between MNGU0 and Internatino phonetic alphabet IPA is needed.
-  * IPA groups: _bilabial_, _labiodental_, _dental_, _alveolar_, _postalveolar_, _palatal_, _velar_, _glotta_, etc.
+    * A mapping chart of phonetic symbols between MNGU0 and Internatino phonetic alphabet IPA is needed.
+    * IPA groups: _bilabial_, _labiodental_, _dental_, _alveolar_, _postalveolar_, _palatal_, _velar_, _glotta_, etc.
 
 **Linguistic Analysis**:
 
 6. Describe the difference of the manner of the articulation for each place of articulation.
-  * The manner of articulation: _plosive_, _nasal_, _fricative_, _lateral fricative_, approximant, _lateral approximant_ and _affricates_.
+    * The manner of articulation: _plosive_, _nasal_, _fricative_, _lateral fricative_, approximant, _lateral approximant_ and _affricates_.
 
