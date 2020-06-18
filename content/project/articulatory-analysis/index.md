@@ -28,7 +28,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: articulatory-anaylsis
 ---
 
 _This project is a individual project assigned in the class of Speech Synthesis at IDMC, University of Lorraine._
