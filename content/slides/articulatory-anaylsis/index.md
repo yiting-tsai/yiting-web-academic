@@ -15,6 +15,8 @@ slides:
 
 # Articulatory Analysis With The Corpus MNGU0
 
+M2 NLP Yi-Ting TSAI, IDMC University of Lorraine
+
 [Project Page]({{< ref "/project/articulatory-analysis/index.md" >}})
 
 ---
@@ -32,7 +34,7 @@ slides:
 ## Brief Process Steps
 
 #### Extraction
-For each utterance, find pairs of corresponding phonetic segmentation data `.lab` file and articulatory data `.txt` file by their filename in the repository of the corpus.
+- For each utterance, find pairs of corresponding phonetic segmentation data `.lab` file and articulatory data `.txt` file by their filename in the repository of the corpus.
 
 ---
 
@@ -62,3 +64,7 @@ For each utterance, find pairs of corresponding phonetic segmentation data `.lab
 - Describe the difference of the manner of the articulation for each place of articulation.
     - The manner of articulation: plosive, nasal, fricative, lateral fricative, approximant, lateral approximant and affricates.
 
+---
+
+### Question ?
+[Mail me](mailto:yiting.clara.tsai@gmail.com)
