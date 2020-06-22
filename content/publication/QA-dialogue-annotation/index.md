@@ -38,11 +38,10 @@ tags:
 featured: false
 
 links:
-- name: "bibtex"
-  url: https://hal.inria.fr/hal-02269609/bibtex
-links:
 - name: "Annotation Guideline"
   url: http://institut-sciences-digitales.fr/wp-content/uploads/2019/07/Report_Supervised_Project.pdf
+- name: "bibtex"
+  url: https://hal.inria.fr/hal-02269609/bibtex
 url_pdf: https://hal.inria.fr/hal-02269609/document
 url_code: ''
 url_dataset: ''
