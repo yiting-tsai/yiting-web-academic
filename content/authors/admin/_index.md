@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Candidate in MSc Natural Language Processing
+role: 2020 graduate of MSc Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,9 @@ organizations:
 bio: Yi-Ting is a M2 candidate in Natural Language Processing at IDMC of the University of Lorraine. Her research interests include text mining, speech processing and ontology.
 
 interests:
-- Text mining
-- Speech Processing
+- NLP
+- Text Mining
+- Data Mining
 - Ontology
 
 education:
@@ -64,6 +65,8 @@ email: ""
 #- Visitors
 ---
 
-Yi-Ting Clara Tsai is a candidate of Master in Natural Language Processing(NLP) at Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine. Her previous background of the study was in French Language Studies and International Business Management.
+Yi-Ting Clara Tsai graduated with Master in Natural Language Processing(NLP) at Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine in the year of 2020. Her interest topics include Text Mining, Argument Mining and Ontology with an emphasis on Business, Politics and eHealth. 
 
-Her interest topics include Text Mining, Speech Processing and Ontology with an emphasis on Business, Politics and eHealth. Currently conducting a research internship in A Corpus-Based Comparative Analysis of Argumentation and RS Theory at [LORIA Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) (UMR 7503 - CNRS, INRIA Grand Est & Université de Lorraine), which is supervised jointly by Mr. Yannick TOUSSAINT (LORIA CNRS, Inria Nancy Grand Est) and Mrs. Mathilde DARGNAT (ATLIF CNRS, Univérsité de Lorraine).
+Proficient in Python and NLP/data science frameworks (Tensorflow, Keras, Trax, Pytorch, SpaCy, HuggingFace, Numpy, Scikit-learn, etc); actively learning Java/Scala and Spark Framework. Also, she spends her free time on learning new techs, such as Cloud-Scale Machine Learning with Google Cloud Platform and Generative Adversarial Networks GANs.
+
+Her expertise in NLP/Data Science/Deep Learning and her previous background of the study in Social Science show the uniqueness. The end-of-studies internship at academic research lab in [LORIA Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) gave her opportunity to work in Argumentation Theories with Formal Concept Analysis inside data-mining-specialized team Orpailleur.
