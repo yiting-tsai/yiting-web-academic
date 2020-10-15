@@ -21,29 +21,16 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Data Science"
-  description = "85%"
-
-[[feature]]
-  icon = "database"
-  icon_pack = "far"
-  name = "SQL"
-  description = "80%"
-  
-[[feature]]
-  icon = "digital-tachograph"
-  icon_pack = "far"
-  name = "Data Mining"
-  description = "75%"           
-
-[[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Linguistics"
   description = "90%"
-
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = "75%"  
 
 # Uncomment to use emoji icons.
 # [[feature]]

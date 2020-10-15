@@ -30,7 +30,7 @@ subtitle = ""
   icon = ":us:"
   icon_pack = "emoji"
   name = "English"
-  description = "Quasi-bilingual, TOEIC 955"
+  description = "Fluent, TOEIC 955"
 
 [[feature]]
   icon = ":fr:"
