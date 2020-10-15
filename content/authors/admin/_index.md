@@ -31,7 +31,7 @@ education:
   - course: MSc in Nautral Language Processing
     institution: IDMC, University of Lorraine, FRANCE
     year: 2020
-  - course: BA in French and International Business Management
+  - course: BA in Applied Languages Studies and International Business
     institution: Wenzao University Ursuline of Languages
     year: 2016
 
