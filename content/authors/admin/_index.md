@@ -65,7 +65,7 @@ email: ""
 #- Visitors
 ---
 
-Yi-Ting Clara Tsai graduated with Master in Natural Language Processing(NLP) at Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine in the year of 2020. Her interest topics include Text Mining, Argument Mining and Ontology with an emphasis on Business, Politics and eHealth. 
+Yi-Ting Clara Tsai graduated Magna Cum Laude with Master in Natural Language Processing(NLP) from Institut des sciences du Digital, Management & Cognition (IDMC) of the Université de Lorraine in the year of 2020. Her interest topics include Text Mining, Argument Mining and Ontology with an emphasis on the domain of Business, Politics and eHealth. 
 
 Proficient in Python and NLP/data science frameworks (Tensorflow, Keras, Trax, Pytorch, SpaCy, HuggingFace, Numpy, Scikit-learn, etc); actively learning Java/Scala and Spark Framework. Also, she spends her free time on learning new techs, such as Cloud-Scale Machine Learning with Google Cloud Platform and Generative Adversarial Networks GANs.
 
