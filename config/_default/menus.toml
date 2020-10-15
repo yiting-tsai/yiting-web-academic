@@ -12,6 +12,7 @@
   name = "Posts"
   url = "#posts"
   weight = 20
+#  identifier = 'topics'
 
 [[main]]
   name = "Projects"
@@ -20,7 +21,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
