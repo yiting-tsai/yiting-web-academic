@@ -28,13 +28,13 @@ subtitle = ""
   
 [[feature]]
   icon = "database"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "SQL"
   description = "80%"
   
 [[feature]]
   icon = "digital-tachograph"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Data Mining"
   description = "75%"           
 
