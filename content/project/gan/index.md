@@ -28,8 +28,8 @@ url_video: ""
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-`slides = ""`
+#   Otherwise, set `slides = ""`.slides = ""
+
 ---
 
 _DISCLAIMER: This post does not intend to explain "what is GAN?" or the math/theory behind GAN, but rather a brief and gentle notes on GAN verbalized in my own words.
