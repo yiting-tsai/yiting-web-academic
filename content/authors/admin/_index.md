@@ -18,7 +18,7 @@ organizations:
   url: "https://institut-sciences-digitales.fr/informations-master-tal/info-tal-generales/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yi-Ting is a M2 candidate in Natural Language Processing at IDMC of the University of Lorraine. Her research interests include text mining, speech processing and ontology.
+bio: Yi-Ting is a graduate with Master in NLP and in her free time she likes to learn new skills and do experiments, such as text generation for lyrics.
 
 interests:
 - NLP

@@ -4,6 +4,7 @@ subtitle: Descriptive analysis of the results extracted and calculated from elec
 summary: Descriptive analysis of the results extracted and calculated with Python from electromagnetic articulographs (EMA).
 tags:
 - Sppech Processing
+- Other
 date: "2020-06-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
