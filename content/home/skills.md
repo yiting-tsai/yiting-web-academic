@@ -15,15 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "80%"
-
-[[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Science"
+  description = "85%"
+
+[[feature]]
+  icon = "sitemap"
+  icon_pack = "fas"
+  name = "Data Mining"
+  description = "80%" 
+
+[[feature]]
+  icon = "searchengin"
+  icon_pack = "fab"
+  name = "Applied Research"
+  description = "75%"    
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "85%"
   
 [[feature]]
@@ -33,16 +45,28 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "digital-tachograph"
-  icon_pack = "fas"
-  name = "Data Mining"
-  description = "75%"           
-
-[[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Linguistics"
-  description = "90%"
+  description = "90%"  
+
+[[feature]]
+  icon = "abacus"
+  icon_pack = "fas"
+  name = "Problem Resolution"
+  description = "90%"    
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Team Work"
+  description = "90%"  
+
+[[feature]]
+  icon = "puzzle-piece"
+  icon_pack = "fas"
+  name = "Adaptability"
+  description = "85%"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
