@@ -51,7 +51,7 @@ subtitle = ""
   description = "90%"  
 
 [[feature]]
-  icon = "abacus"
+  icon = "cubes"
   icon_pack = "fas"
   name = "Problem Resolution"
   description = "90%"    
