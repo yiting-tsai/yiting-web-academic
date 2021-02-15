@@ -36,14 +36,32 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "85%"
+  description = "90%"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "80%"
+  description = "85%"
   
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "70%"
+  
+ [[feature]]
+  icon = "googe"
+  icon_pack = "fab"
+  name = "GCP"
+  description = "70%" 
+  
+[[feature]]
+  icon = "fa-java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "60%"
+
 [[feature]]
   icon = "language"
   icon_pack = "fas"
