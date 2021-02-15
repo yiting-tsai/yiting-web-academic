@@ -51,13 +51,13 @@ subtitle = ""
   description = "70%"
   
  [[feature]]
-  icon = "googe"
+  icon = "google"
   icon_pack = "fab"
   name = "GCP"
   description = "70%" 
   
 [[feature]]
-  icon = "fa-java"
+  icon = "java"
   icon_pack = "fab"
   name = "Java"
   description = "60%"
